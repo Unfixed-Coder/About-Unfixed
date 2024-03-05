@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unfixed-coder
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently doing nothing .
+- 🌱 I’m currently an Employee of Microsoft 
 - 💞️ I’m looking to collaborate on (I haven't thought about it till now)
 - 📫 You can reach me by my email - unfixedcoder@gmail.com
 
